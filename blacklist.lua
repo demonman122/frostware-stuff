@@ -1,9 +1,9 @@
 kickmessage = "If you don't like my script, don't use it!"
 blacklist = {""}
 
-mains = {"frostedsWish"}
+mains = {"shFrosted"}
 
-special = {"alexxgravve", "IqramDaThugLife"}
+special = {"IqramDaThugLife"}
 
 donators = {""}
 
